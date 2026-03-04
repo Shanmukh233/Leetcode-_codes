@@ -17,12 +17,15 @@ public:
             if(isvowel(s[j])){
                 cnt++;
             }
+            if(s[j]!=' '){
+                sc++;
+            }
             if((s[j]==' ' || j==n-1)){
                if(cnt==vc){
                j=(j==n-1)?j+1:j;
-               reverse(s.begin()+i ,s.begin()+j);
+               reverse(s.begin()+j-sc,s.begin()+j);
                }
-               i=j+1;
+               sc=0;
                cnt=0;
             }
 
