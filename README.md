@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
