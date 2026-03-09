@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Two Pointers
