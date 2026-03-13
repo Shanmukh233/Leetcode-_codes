@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2717-semi-ordered-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2293-min-max-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2717-semi-ordered-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2717-semi-ordered-permutation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
