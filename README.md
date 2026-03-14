@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
