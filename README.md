@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2079-watering-plants](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2079-watering-plants/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2079-watering-plants](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2079-watering-plants/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
