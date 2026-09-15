@@ -58,10 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2717-semi-ordered-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2717-semi-ordered-permutation/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
