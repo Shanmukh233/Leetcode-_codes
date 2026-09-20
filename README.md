@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0056-merge-intervals/) | Medium |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Hash Table
