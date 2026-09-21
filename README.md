@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
