@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2717-semi-ordered-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
