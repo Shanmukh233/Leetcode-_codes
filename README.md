@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0056-merge-intervals/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
