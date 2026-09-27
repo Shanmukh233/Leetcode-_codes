@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0056-merge-intervals/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
