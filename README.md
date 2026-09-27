@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2079-watering-plants](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2079-watering-plants/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
