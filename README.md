@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3783-mirror-distance-of-an-integer) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2079-watering-plants](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2079-watering-plants/) | Medium |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2079-watering-plants](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2079-watering-plants/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Depth-First Search
 |  |
