@@ -1,23 +1,27 @@
 class Solution {
 public:
-    vector<int> remele(vector<int>& res,int k){
-        int n=res.size();
-        for(int i=0;i<(k-1)%n;i++){
-            int m=res.front();
-            res.erase(res.begin());  
-            res.push_back(m);
-        }
-        res.erase(res.begin());
-        return res;
-    }
     int findTheWinner(int n, int k) {
-        vector<int> res;
-        for(int i=0;i<n;i++){
-            res.push_back(i+1);
+        list<int> l;
+        for(int i=1;i<=n;i++){
+            l.push_back(i);
         }
-        while(res.size()!=1){
-            res=remele(res,k);
+         int cnt=0;
+         auto it=l.begin();
+        while(l.size()>1){
+             cnt++;
+
+             if(cnt==k){
+                it=l.erase(it);
+                cnt=0;
+             }
+             else{
+                it++; 
+             }
+
+             if(it==l.end()){
+                it=l.begin();
+             }
         }
-        return res[0];
+        return *it;
     }
 };
