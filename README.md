@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0056-merge-intervals/) | Medium |
+| [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0994-rotting-oranges) |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Queue
 |  |
@@ -144,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
