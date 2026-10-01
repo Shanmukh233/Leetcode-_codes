@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0394-decode-string) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0394-decode-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -175,5 +177,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
