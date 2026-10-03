@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0419-battleships-in-a-board) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0821-shortest-distance-to-a-character) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0419-battleships-in-a-board) |
 | [0566-reshape-the-matrix](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0419-battleships-in-a-board) |
 ## Breadth-First Search
 |  |
 | ------- |
