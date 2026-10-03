@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0415-add-strings/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1030-matrix-cells-in-distance-order) |
+| [1399-count-largest-group](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1399-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0128-longest-consecutive-sequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1399-count-largest-group](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1399-count-largest-group) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Shanmukh233/Leetcode-_codes/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1399-count-largest-group](https://github.com/Shanmukh233/Leetcode-_codes/tree/master/1399-count-largest-group) |
 ## Bracket Sequences
 |  |
 | ------- |
